@@ -1,11 +1,11 @@
 # IndiviualProject1012
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=IndiviualProject1012%20(IsaacLike)&fontSize=90)
 
- <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/><img src="https://img.shields.io/badge/C sharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/C sharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
 
 ## 게임 컨셉
 
- [노션] (https://www.notion.so/222367db1b8047f99404c04dd90dd0d9?pvs=4)
+[노션](https://www.notion.so/222367db1b8047f99404c04dd90dd0d9?pvs=4)
 
 ## 게임 소개
 
