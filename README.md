@@ -5,7 +5,7 @@
 
 ## 게임 컨셉
 
-- [노션] (https://www.notion.so/222367db1b8047f99404c04dd90dd0d9?pvs=4)
+ [노션] (https://www.notion.so/222367db1b8047f99404c04dd90dd0d9?pvs=4)
 
 ## 게임 소개
 
