@@ -16,16 +16,16 @@
     - 인트로 씬
     - 자유 게임
   - 선택 구현 사항
-    [ ] 오브젝트 풀링
-    [ ] Instantiate로 오브젝트 생성
-    [ ] InputAction
-    [ ] 스크립트로 버튼에 이벤트 추가
-    [ ] delegate
-    [ ] Raycast
-    [ ] generic을 이용한 싱글톤
-    [ ] FSM
-    [ ] Dictionary
-    [ ] Queue, Stack
+    [] 오브젝트 풀링
+    [] Instantiate로 오브젝트 생성
+    [] InputAction
+    [] 스크립트로 버튼에 이벤트 추가
+    [] delegate
+    [] Raycast
+    [] generic을 이용한 싱글톤
+    [] FSM
+    [] Dictionary
+    [] Queue, Stack
  
 <br>
 <br>
